@@ -1,5 +1,5 @@
 ### AUTOSLIDERR
-[![screenshot]([![portfolio](assets/images/portfolio.png)](https://github.com/CodeDroid999/autosliderr))](https://github.com/CodeDroid999/autosliderr)
+[![screenshot]([![screenshot](slider1.png)](https://github.com/CodeDroid999/autosliderr))](https://github.com/CodeDroid999/autosliderr)
 ## Carousel
 A slideshow component for cycling through elements—images or slides of text—like a carousel.
 
