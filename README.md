@@ -14,13 +14,16 @@ In browsers where the Page Visibility API is supported, the carousel will avoid 
 
 ## Get the code
 
-https://github.com/CodeDroid999/autosliderr.git
+<a href="https://github.com/CodeDroid999/autosliderr.git">Download</a> or clone
+<ul>
+  <li> copy this into your termianl: git clone https://github.com/CodeDroid999/autosliderr.git </li>
+</ul>
 
 ## Getting started
  
  <ol>
  <li>Download <a href="">code</a> or clone the repository</>
- <li>Exctract zip file<li>
+ <li>Exctract zip file</li>
  <li>Open the folder with an ide</li>
  <li>open folder with open live server</li>
  <li>Edit styles/JS to your liking</li>
@@ -33,4 +36,4 @@ https://github.com/CodeDroid999/autosliderr.git
   <li>Add the CSS and JS into respective files in your project</li>
   </ol>
   
-  <h3 align="left">Was this helpful?!....<a href="https://github.com/CodeDroid999?tab=repositories">see more projects like this ☆</a> and star☆ my repos please!😁 and.....</h3> 
+  <h3 align="left">Was this helpful?!....<a href="https://github.com/CodeDroid999?tab=repositories">see more projects like this</a> and star☆ my repos please!😁 and.....</h3> 
