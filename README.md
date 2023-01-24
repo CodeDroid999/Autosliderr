@@ -22,7 +22,7 @@ In browsers where the Page Visibility API is supported, the carousel will avoid 
 ## Getting started
  
  <ol>
- <li>Download <a href="">code</a> or clone the repository</>
+ <li><a href="https://github.com/CodeDroid999/autosliderr.git">Download code</a> or clone the repository</>
  <li>Exctract zip file</li>
  <li>Open the folder with an ide</li>
  <li>open folder with open live server</li>
