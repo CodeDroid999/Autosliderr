@@ -32,7 +32,7 @@ In browsers where the Page Visibility API is supported, the carousel will avoid 
  ## Use this project as a section in your project
   <ol>
   <li>Copy/cut the whole slideshow-container div</li>
-  <li>Paste it into the <h3><section></section></h3> element in your project</li>
+  <li>Paste it into the section element in your project</li>
   <li>Add the CSS and JS into respective files in your project</li>
   </ol>
   
