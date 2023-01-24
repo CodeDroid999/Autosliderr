@@ -1,7 +1,7 @@
 ### Autosliderr
 
 <p align="center">
-  <img src="https://github.com/CodeDroid999/autosliderr/blob/master/assets/images/slider1.png" width="100vw">
+  <img src="https://github.com/CodeDroid999/autosliderr/blob/master/assets/images/slider1.png" style:"width=100%">
   </p>
 
 ## Carousel
