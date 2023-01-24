@@ -26,9 +26,11 @@ https://github.com/CodeDroid999/autosliderr.git
  <li>Edit styles/JS to your liking</li>
  </ol>
  
- ## using this project as a section in your project
+ ## Use this project as a section in your project
   <ol>
-  <li>Copy/cut the whole slideshow-container div</li>
+  <li>Copy/cut the whole slideshow-container div</li>star
   <li>Paste it into the <section></section> element in your project</li>
   <li>Add the CSS and JS into respective files in your project</li>
   </ol>
+  
+  <h3 align="left">Was this helpful?!....<a href="https://github.com/CodeDroid999?tab=repositories">see more projects like this ☆</a> and star☆ my repos please!😁 and.....</h3> 
