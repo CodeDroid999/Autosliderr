@@ -1,4 +1,5 @@
-### autosliderr
+### AUTOSLIDERR
+[![portfolio](assets/images/portfolio.png)](https://mbote-joseph.netlify.app/)
 ## Carousel
 A slideshow component for cycling through elements—images or slides of text—like a carousel.
 
