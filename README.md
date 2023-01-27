@@ -16,7 +16,7 @@ In browsers where the Page Visibility API is supported, the carousel will avoid 
 
 ## Get the code
 ```
-<https://github.com/CodeDroid999/autosliderr.git>
+https://github.com/CodeDroid999/autosliderr.git
 
 ```
 
