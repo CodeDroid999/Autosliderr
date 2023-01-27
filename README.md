@@ -34,6 +34,6 @@ https://github.com/CodeDroid999/autosliderr.git
 
   <ol>
   <li>Copy/cut the whole slideshow-container div</li>
-  <li>Paste it into the <section></section> element in your project</li>
+  <li>Paste it into the section element in your project</li>
   <li>Add the CSS and JS into respective files in your project</li>
   </ol>
