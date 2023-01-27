@@ -15,8 +15,10 @@ The carousel is a slideshow for cycling through a series of content, built HTML5
 In browsers where the Page Visibility API is supported, the carousel will avoid sliding when the webpage is not visible to the user (such as when the browser tab is inactive, the browser window is minimized, etc.).
 
 ## Get the code
-
+```
 <https://github.com/CodeDroid999/autosliderr.git>
+
+```
 
 ## Getting started
 
