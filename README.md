@@ -24,7 +24,7 @@ https://github.com/CodeDroid999/autosliderr.git
 
  <ol>
  <li><a href="https://github.com/CodeDroid999/Autosliderr.git">Download code</a> or clone the repository</>
- <li>Exctract zip file<li>
+ <li>Exctract zip file</li>
  <li>Open the folder with an IDE</li>
  <li>Open folder with open live server</li>
  <li>Edit styles/JS to your liking</li>
