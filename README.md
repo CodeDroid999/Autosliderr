@@ -1,7 +1,7 @@
 ### Autosliderr
 
 <p align="center">
-  <img src="https://github.com/CodeDroid999/autosliderr/blob/master/assets/images/slider1.png" width="100vw">
+  <img src="https://github.com/CodeDroid999/autosliderr/blob/master/assets/images/slider1.png" style="min-width:100%">
   </p>
 
 ## Carousel
@@ -14,24 +14,28 @@ The carousel is a slideshow for cycling through a series of content, built HTML5
 
 In browsers where the Page Visibility API is supported, the carousel will avoid sliding when the webpage is not visible to the user (such as when the browser tab is inactive, the browser window is minimized, etc.).
 
-## Get the code
 
-<https://github.com/CodeDroid999/autosliderr.git>
+
+## Get the code
+```
+https://github.com/CodeDroid999/autosliderr.git
+
+```
 
 ## Getting started
 
  <ol>
- <li>Download <a href="">code</a> or clone the repository</>
- <li>Exctract zip file<li>
- <li>Open the folder with an ide</li>
- <li>open folder with open live server</li>
+ <li><a href="https://github.com/CodeDroid999/Autosliderr.git">Download code</a> or clone the repository</>
+ <li>Exctract zip file</li>
+ <li>Open the folder with an IDE</li>
+ <li>Open folder with open live server</li>
  <li>Edit styles/JS to your liking</li>
  </ol>
 
-## using this project as a section in your project
+## Using this project as a section in your project
 
   <ol>
   <li>Copy/cut the whole slideshow-container div</li>
-  <li>Paste it into the <section></section> element in your project</li>
+  <li>Paste it into the section element in your project</li>
   <li>Add the CSS and JS into respective files in your project</li>
   </ol>
